@@ -1585,7 +1585,6 @@ void Login()
 }
 
 int main()
-
 {
     Login();
 
